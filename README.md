@@ -26,10 +26,11 @@ A scalable, transactional backend system built for the "Jr. Full Stack Developer
 
 ### 2. Database Setup
 Open your MySQL terminal or Workbench and run:
-```sql
+```sql"
 CREATE DATABASE transaction_db;
 
-## AI Prompts Used 
+
+## AI PROMPTS USED
 
 As per the assignment requirements, here are the prompts used to assist in the development of this project.
 
